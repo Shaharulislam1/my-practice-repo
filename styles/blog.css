@@ -1,0 +1,15 @@
+.my{
+    text-align: center;
+    padding: 40px;
+    margin: 50px 50px;
+    background-color: antiquewhite;
+}
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.blog{
+    background-color: yellowgreen;
+}
